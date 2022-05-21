@@ -1,4 +1,0 @@
-Nama pelanggan : 
-Total liter    : 65
-jenis bensin   : H
-Total harga    : 0
